@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning QA engineering at TripleTen
 - 📫 How to reach me email: eric_rivera_101@yahoo.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am currently a hairdresser looking to break off into the tech industry
+- ⚡ Fun fact: I am an avid gardener, both indoor and outdoor plants!
 
 <!---
 erivera930701/erivera930701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
